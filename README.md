@@ -1,4 +1,4 @@
-# royecto de Chatbot para ProcessOptima - HackaIA
+# Proyecto de Chatbot para ProcessOptima - HackaIA
 
 ## Descripción
 
